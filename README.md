@@ -22,7 +22,7 @@ The inclusion of a clear button allows users to reset the app to its initial sta
 
 In summary, the purpose of creating the native Android app is to leverage technology to deliver an educational and entertaining experience that inspires young minds to learn about history in a fun and interactive way. Through its innovative features and user-friendly design, the app aims to ignite curiosity, foster learning, and leave a lasting impact on students' understanding of historical figures and events.
 Github link: https://github.com/LehlogonoloMolepo/assignmnent
-Youtube link:
+Youtube link: https://youtu.be/sQLszKU-SqE
 
 
 
